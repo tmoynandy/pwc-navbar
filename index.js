@@ -19,9 +19,7 @@ class App extends Component {
       <div className =  "col col-md-1 col-sm-1 col-xs-1">
         <Navbar />
       </div>
-      <div className =  "col col-md-11 col-sm-11 col-xs-11">
-        <Landing />
-      </div>
+      
         </div>
       </React.Fragment>
     );

@@ -1,7 +1,24 @@
+
+.navbar {
+  padding : 0px !important;
+}
+
+.btn-primary{
+  background-color: #680000 !important;
+  width: 100px !important;
+  border-color : #680000;
+  border : 0px solid transparent;
+  border-radius: 0px;
+}
+
+.img{
+  width : 80px;
+}
+
 .icon-bar {
   width: 100px;
   height : 100%;
-  background-color: #555;
+  background-color: #680000;
 }
 
 .icon-bar a {
@@ -14,7 +31,7 @@
 }
 
 .icon-bar a:hover {
-  background-color: #000;
+  background-color: #B50000;
   width : 90%;
   margin-left: 4px;
   margin-right: 4px;
@@ -24,7 +41,7 @@
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: red;
   width : 90%;
   margin-left: 4px;
   margin-right: 4px;
@@ -34,5 +51,5 @@
 }
 
 .nav-text{
-  font-size: 15px;
+  font-size: 12px;
 }
