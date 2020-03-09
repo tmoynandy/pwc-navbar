@@ -3,6 +3,14 @@
   padding : 0px !important;
 }
 
+.bg-light{
+ box-sizing: border-box;
+  width: 1343px;
+  border: 1px solid rgba(236,237,239,0.5);
+  background-color: #F8F9FB;
+  box-shadow: 0 2px 4px 0 rgba(236,237,239,0.5);
+}
+
 .btn-primary{
   background-color: #680000 !important;
   width: 100px !important;
